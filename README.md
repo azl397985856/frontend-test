@@ -40,7 +40,7 @@ The terminology make it more hard to understand.
 Before we dive into `ways to test`.
 Let's get started with the simplest - `unit test`.
 ### unit test
-Unit testing is code that tests units of code, whether they be functions, modules, or classes.
+> Unit testing is code that tests units of code, whether they be functions, modules, or classes.
  
 Unit tests are the easiest tests to write, and the easiest tests to understand, as they are usually functional in nature — setup a unit with input, make it do it’s thing, and check the output (where the input could be a function parameter, and the output just the return value).
 
