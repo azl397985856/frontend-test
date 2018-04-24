@@ -23,8 +23,14 @@ there is no silver bullet. But high coverage always produce hight quality code.
 > alway doesn't mean inevitable
 ## Why to test
 
-### to deploy your app with no fear
+### To deploy your app with no fear
+without testing, adding new feature or fixing bug is tough.
 
+It's hard to guarantee the code added doesn't effect the old code.
+> fix a bug, produce two or more bug.
+
+But things are diffrent if your code base is well tested,
+sure, you can deploy your app without fear.
 ## Ways to test
 ### unit test
 
