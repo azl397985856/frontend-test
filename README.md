@@ -31,6 +31,8 @@ It's hard to guarantee the code added doesn't effect the old code.
 
 But things are diffrent if your code base is well tested.
 sure, you can deploy your app without fear.
+
+>  it doesn’t really matter how you do your tests, as long as you write enough tests that make you feel confident that you can deploy your version to production.          --Gil Tayar
 ## Ways to test
 ### unit test
 
