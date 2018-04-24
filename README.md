@@ -46,6 +46,10 @@ Unit tests are the easiest tests to write, and the easiest tests to understand, 
 
 Moreover, you should encourage yourself to write the code in a way that makes it possible to test those units in isolation, without needing to bring in other units.
 
+Code that is perfect for unit-testing is code that has no I/O or UI dependencies.
+if you do(actually you did), try mock. More advance, try to limit the side effect(here is IO and UI) into a small area, 
+functional programming is good at it.
+
 ### integration test
 
 ### e2e test
