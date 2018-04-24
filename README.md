@@ -22,7 +22,6 @@ there is no silver bullet. But high coverage always produce hight quality code.
 
 > alway doesn't mean inevitable
 ## Why to test
-
 ### To deploy your app with no fear
 without testing, adding new feature or fixing bug is tough.
 
@@ -34,7 +33,14 @@ sure, you can deploy your app without fear.
 
 >  it doesn’t really matter how you do your tests, as long as you write enough tests that make you feel confident that you can deploy your version to production.          --Gil Tayar
 ## Ways to test
+There are so many types of test.
+
+The terminology make it more hard to understand.
+
+Before we dive into `ways to test`.
+Let's get started with the simplest - unit test.
 ### unit test
+ Unit testing is code that tests units of code, whether they be functions, modules, or classes
 
 ### integration test
 
