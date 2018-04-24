@@ -27,7 +27,7 @@ there is no silver bullet. But high coverage always produce hight quality code.
 without testing, adding new feature or fixing bug is tough.
 
 It's hard to guarantee the code added doesn't effect the old code.
-> fix a bug, produce two or more bug.
+(fix a bug, produce two or more bugs)
 
 But things are diffrent if your code base is well tested.
 sure, you can deploy your app without fear.
