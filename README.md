@@ -3,13 +3,13 @@ This repo contains almost everything about frontend  testing, it's usefull espec
 
 It mainly cover there four parts:
 
-What is test
+* What is test
 
-Why to test
+* Why to test
 
-Ways to test
+* Ways to test
 
-Visual test
+* Visual test
 
 > this topic only covers the test itself, and the framework parts such as mocha and jest are on their way.
 ## What the hell is test
