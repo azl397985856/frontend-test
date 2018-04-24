@@ -13,7 +13,14 @@ It mainly cover there four parts:
 
 > this topic only covers the test itself, and the framework parts such as mocha and jest are on their way.
 ## What the hell is test
-### hard to say
+Test is `code` to ensure your code works `as expected`.
+
+To `ensure`, we may need to assert which is the core of testing.
+
+To be `as excepected`, you may need to consider every part about your program, nobody can hekp you,
+there is no silver bullet. But high coverage always produce hight quality code.
+
+> alway doesn't mean inevitable
 ## Why to test
 
 ### to deploy your app with no fear
