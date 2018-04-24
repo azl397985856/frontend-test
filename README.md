@@ -17,7 +17,7 @@ Test is `code` to ensure your code works `as expected`.
 
 To `ensure`, we may need to assert which is the core of testing.
 
-To be `as excepected`, you may need to consider every part about your program, nobody can hekp you,
+To be `as excepected`, you may need to consider every part about your program, nobody can help you,
 there is no silver bullet. But high coverage always produce hight quality code.
 
 > alway doesn't mean inevitable
