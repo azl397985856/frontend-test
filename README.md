@@ -51,11 +51,25 @@ if you do(actually you did), try mock. More advance, try to limit the side effec
 functional programming is good at it.
 
 ### integration test
+also, before we diving into what integration test is. 
+Let's determin why we need it.
 
+> they ensure that modules which work well in isolation, also play well together.
+
+Integration tests typically focus on a small number of modules and test their interactions.
+So we may know what is integration test is from it.
+
+> Intergration puts a small number of modules together to ensure they work well.
 ### e2e test
+e2e(end to end) testing, where we test the whole application together, and test it as a user would — essentially automating whatever the user does.
+So the E2E test should just check that the glue binding all units works.
 
+But...
+> relying primarily on end-to-end tests is a bad idea
+
+and if you know testing pyramid, you could understand that easily.
 ## Visual Test
-
+while
 ### snapshot
 ### screenshot
 
