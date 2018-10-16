@@ -50,6 +50,16 @@ Code that is perfect for unit-testing is code that has no I/O or UI dependencies
 if you do(actually you did), try mock. More advance, try to limit the side effect(here is IO and UI) into a small area, 
 functional programming is good at it.
 
+Well written automated tests always act as a good bug report when they fail, but few developers spend time to think about what information a good bug report needs.([Rethinking Unit Test Assertions](https://medium.com/javascript-scene/rethinking-unit-test-assertions-55f59358253f) by @Eric Elliott)
+
+There are 5 questions every unit test must answer. I’ve described them in detail before, so we’ll just skim them this time:
+
+1. What is the unit under test (module, function, class, whatever)?
+2. What should it do? (Prose description)
+3. What was the actual output?
+4. What was the expected output?
+5. How do you reproduce the failure?
+
 ### integration test
 also, before we diving into what integration test is. 
 Let's determin why we need it.
